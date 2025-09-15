@@ -26,3 +26,9 @@ Notes
 - IDs are ~98% valid human ENTREZ; symbols provided elsewhere for readability.
 - Data source: GEO GSE234297.
 
+Data & Attribution
+- Data: GEO GSE234297 (whole blood).
+- Notice: GEO data belong to the original authors; not covered by this repo’s license.
+- Reuse: Follow GEO terms; cite the study and GSE234297.
+- Code/docs: © 2025 Nilsou Chalats, MIT.
+
